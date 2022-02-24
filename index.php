@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="Style/home.css">
 </head>
 <body>
-    
+    <!-- Hier kannst du den anfang machen dann mach ich den Admin teil also Connctions 
+    - Statt .html dateien immer .php machen, lässt sich gleich behandeln --> 
 </body>
 </html>
